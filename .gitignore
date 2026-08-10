@@ -1,0 +1,19 @@
+# Environment secrets (CRITICAL)
+.env
+.env.local
+.env.*.local
+
+# Build outputs & dependencies
+node_modules/
+dist/
+build/
+*.cjs
+
+# Local database files
+*.sqlite
+data/
+
+# OS/Editor junk
+.DS_Store
+.idea/
+.vscode/

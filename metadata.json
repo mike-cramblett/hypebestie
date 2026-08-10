@@ -1,0 +1,6 @@
+{
+  "name": "HypeBESTIE",
+  "description": "AI Vibe Scanner & Thermal Receipt Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
