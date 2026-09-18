@@ -1,12 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# THIS IS THE ORIGINAL GEMINI 3.6 FLASH VERSION OF HYPEBESTIE
+
+## I ACCIDENTALLY MADE 2 REPOSITORIES
+
+---
 
 # Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/1d18e915-3e6b-4db7-9f9b-712f60470fd2
 
 ## Run Locally
 
